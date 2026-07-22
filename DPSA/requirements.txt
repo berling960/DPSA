@@ -1,0 +1,9 @@
+torch
+torchvision
+timm
+transformers
+safetensors
+numpy
+pandas
+Pillow
+tqdm
